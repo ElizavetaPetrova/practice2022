@@ -1,0 +1,1 @@
+{"id":"00e5e700-97b0-464b-a1ea-a867b97bcb88","space":26592,"runtime":"python3.9","name":"sql_app","path":"r96u7m","project":"c031e393","account":"144798365827","region":"ap-southeast-1","deps":["fastapi","sqlalchemy"],"envs":null,"public":true,"log_level":"off","cron":""}
